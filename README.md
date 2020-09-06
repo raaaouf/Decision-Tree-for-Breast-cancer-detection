@@ -4,7 +4,7 @@ implemening decision trees algorithm with bagging as a normlizing technic to pre
 ## DATA
 The dataset contains only the following ten attributes:
 
-+Age: age of the patient (years)
++ Age: age of the patient (years)
 + BMI: body mass index (kg/m²)
 + Glucose: glucose concentration in blood (mg/dL)
 + Insulin: insulin concentration in blood (microU/mL)
