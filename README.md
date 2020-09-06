@@ -5,15 +5,15 @@ implemening decision trees algorithm with bagging as a normlizing technic to pre
 The dataset contains only the following ten attributes:
 
 +Age: age of the patient (years)
-+BMI: body mass index (kg/m²)
-+Glucose: glucose concentration in blood (mg/dL)
-+Insulin: insulin concentration in blood (microU/mL)
-+HOMA: Homeostatic Model Assessment of Insulin Resistance (glucose multiplied by insulin)
-+Leptin: concentration of leptin — the hormone of energy expenditure (ng/mL)
-+Adiponectin: concentration of adiponectin — a protein regulating glucose levels (micro g/mL)
-+Resistin: concentration of resistin — a protein secreted by adipose tissue (ng/mL)
-+MCP.1: concentration of MCP-1 — a protein that recruits monocytes to the sites of inflammation due to tissue injury or inflammation (pg/dL)
-+Classification: Healthy controls (1) or patient (2)
++ BMI: body mass index (kg/m²)
++ Glucose: glucose concentration in blood (mg/dL)
++ Insulin: insulin concentration in blood (microU/mL)
++ HOMA: Homeostatic Model Assessment of Insulin Resistance (glucose multiplied by insulin)
++ Leptin: concentration of leptin — the hormone of energy expenditure (ng/mL)
++ Adiponectin: concentration of adiponectin — a protein regulating glucose levels (micro g/mL)
++ Resistin: concentration of resistin — a protein secreted by adipose tissue (ng/mL)
++ MCP.1: concentration of MCP-1 — a protein that recruits monocytes to the sites of inflammation due to tissue injury or inflammation (pg/dL)
++ Classification: Healthy controls (1) or patient (2)
 
 ## Data Visualisation
 
